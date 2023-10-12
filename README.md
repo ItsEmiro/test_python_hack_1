@@ -93,3 +93,6 @@ text: "fooziman" output => ["F","0","0","Z","1","M","@","N"]
 ```
 <br/>
 
+![Screenshot 2023-10-10 001032](https://github.com/ItsEmiro/test_python_hack_1/assets/142281230/01f5e75d-5f4a-46f6-bfaa-49ed36e502d6)
+
+
